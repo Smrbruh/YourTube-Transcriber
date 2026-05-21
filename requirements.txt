@@ -1,0 +1,6 @@
+yt-dlp
+faster-whisper
+python-telegram-bot
+python-dotenv
+fastapi
+uvicorn
